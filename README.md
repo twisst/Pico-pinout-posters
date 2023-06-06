@@ -1,5 +1,5 @@
 # Raspberry Pi Pico pinout posters
-These are files I used to print as large posters for my electronics workshop, to help students and myself make fewer mistakes with pin numbers 😄
+These are files I used to print the Pico pinout diagram as large posters for my electronics workshop. I'm hoping they will help students and myself make fewer mistakes with pin numbers 😄
 
 A4 portrait (~70cm wide)  |  A3 landscape (~90 cm)
 :-------------------------:|:-------------------------:
